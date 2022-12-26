@@ -7,4 +7,4 @@ This class covers followings:
 - Data augmentation, regularization techniques
 - Flow model
 - Variational autoencoder, GAN
-- Concrete examples : LeNet, NiN network, GoogLeNet, ResNet, SENet, DenseNet, and so on
+- Concrete examples (not mainly) : LeNet, NiN network, GoogLeNet, ResNet, SENet, DenseNet, and so on
